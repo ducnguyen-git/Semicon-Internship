@@ -1,3 +1,2 @@
-# Semicon Internship Project
-## I2C Master Controller using Verilog
-![theme](i2c.png)
+# Semicon Practices
+## Practices in Basic Course at SEMICON
